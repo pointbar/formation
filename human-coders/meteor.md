@@ -1,5 +1,5 @@
-
-r est une plate-forme de développement d’applications Web et mobile composée d’une API JavaScript client/serveur orientée temps réel.
+# Description
+Meteor est une plate-forme de développement d’applications Web et mobile composée d’une API JavaScript client/serveur orientée temps réel.
 
 Meteor est un framework open-source de développement web en Javascript basé sur Node.js. Il propose une façon radicalement simple, pour écrire des applications Web/mobile réactives, et permet de construire un prototype en quelques jours.
 
