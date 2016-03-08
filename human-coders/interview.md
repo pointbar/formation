@@ -1,6 +1,6 @@
 ## Human Coders : Peux-tu te présenter en quelques lignes ?
 
-Oui, Stéphane Langlois salarié co-fondateur chez scopyleft.
+Oui, Stéphane Langlois, salarié co-fondateur chez scopyleft.
 J'ai du mal à définir mon activité, elle évolue au gré des contextes.
 
 - Je ne suis pas coach agile, je ressemble plus à un difficultateur bienveillant.
