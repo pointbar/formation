@@ -55,7 +55,7 @@ Cette formation s’adresse aux développeurs Web qui souhaitent maitriser Meteo
 ## Méthodes pédagogiques
 * Cours « magistral » interactif
 * Apprentissage en binôme
-* Mise en application sur un projet collectif
+* Mise en application sur un projet collectif qui sert de fil rouge tout au long de la formation
 * Évaluation pendant la formation
 * Session en face à face avec le développeur
 * Mise en place d’une plateforme collaborative pour le suivi de la formation
