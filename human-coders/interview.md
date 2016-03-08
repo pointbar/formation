@@ -19,7 +19,7 @@ J'ai testé beaucoup de formats, aujourd'hui je travail principalement en adapta
 
 ## HC : Peux-tu nous présenter cette formation ? Comment se déroule-t-elle ?
 
-La formation *Meteor* permet d'ouvrir très largement sur des sujets variés : *MVP*, *JavaScript*, *mongoDB*, *Git*, *NPM*, Tests unitaires, *Lean Startup*.  
+La formation *Meteor* permet d'ouvrir très largement sur des sujets variés : *MVP*, *JavaScript*, *MongoDB*, *Git*, *NPM*, Tests unitaires, *Lean Startup*.  
 Ce n'est pas un support de cours qui se déroule pendant trois jours.  
 Elle laisse beaucoup de marge pour pouvoir adapter le rythme et les sujets aux besoins de chacun, tout en préservant un tronc commun.  
 Nous construisons ensemble une application réelle ou chacun va évoluer et buter à son rythme.
